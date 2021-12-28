@@ -1,4 +1,6 @@
-# dev-platform
+# Developer Platform
+
+You can think stackoverflow but there are some differences than that. There are chat rooms for discussing issues and code sharing, so this makes it easy to getting answers. This product aims to better development environment and communication.
 
 ## Build Setup
 
@@ -19,8 +21,6 @@ $ npm run generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 "# Dev-Platform-Client" 
-
-
 
 
 ![Ekran görüntüsü 2021-12-28 110615](https://user-images.githubusercontent.com/58563002/147543810-0a8942b1-b647-4cf8-837d-d69f11300e47.png)
